@@ -1,0 +1,7 @@
+<suite name="testng.xml">
+	<test name="testngTest">
+		<classes>
+			<class name="com.abc.employeetestcae.TestToGetAllEmployee" />
+		</classes>
+	</test>
+</suite>
